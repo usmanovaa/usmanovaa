@@ -10,7 +10,7 @@
 * Federated Learning
 * Statistics
 * Web Scraping (BeautifulSoup, Requests)
-* Backend development: Flask
+* Backend development: FastAPI
 * SQL
 * Tableau, Excel, LaTeX
 
